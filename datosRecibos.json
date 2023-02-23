@@ -1,0 +1,5 @@
+[
+{"nRecibo": "1", "fecha": "2022-12-06", "importe": "333.33", "fechaPagado": "null", "nPrestamo": "1000"},
+{"nRecibo": "3", "fecha": "2023-02-06", "importe": "333.33", "fechaPagado": "null", "nPrestamo": "1000"},
+{"nRecibo": "2", "fecha": "2023-01-06", "importe": "333.33", "fechaPagado": "null", "nPrestamo": "1000"}
+]
